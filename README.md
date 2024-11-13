@@ -10,3 +10,6 @@ Our project provides a real-time language translator for virtual meetings, like 
 This tool uses Python, Speech-to-Text and Text-to-Speech APIs, and translation services, along with virtual audio routing, to ensure smooth, immediate language conversion.
 
 ## With this solution, we're breaking language barriers and enabling effortless global communication.
+
+https://github.com/user-attachments/assets/f19b9e51-4c50-4a42-9a07-4331e4a1807e
+
